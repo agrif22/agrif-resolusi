@@ -1,0 +1,9 @@
+Membuat portofolio produk full stack web developer
+fokus ke back end laravel
+lanjut crud dengan membuat aplikasi sederhana dengan crud ( inventaris barang kantor  dan Blog Organisasi )
+lanjut ke front end bootstrap dan flat design
+publish hasil karya pertama
+next back end javascript native
+javascript framework
+kombinasikan javascript dengan materi sebelumnya
+front end dengan 3D desain
